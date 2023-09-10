@@ -48,7 +48,7 @@ namespace Ticketing
     {
         Section = section;
         Quantity = quantity;
-        Discount = discount;
+        Discount = discount;//Give a further 10% discount to all ticket types
         AmountDue = amountDue;
     }
 
